@@ -1,3 +1,3 @@
-red_bucket = "G-man"
+variable_1 = "Hello World!!!"
 
 print(variable_1)
