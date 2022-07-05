@@ -1,3 +1,3 @@
 red_bucket = "G-man"
 
-print(red_bucket)
+print(variable_1)
